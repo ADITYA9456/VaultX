@@ -1,4 +1,4 @@
-![VaultX Banner](cd9f8737-a32f-4773-b89f-859ca390c53a.png)
+
 
 # 🚀 VaultX <Your Own Password Manager /> 🔐
 
@@ -21,7 +21,6 @@ Welcome to **VaultX** — a sleek, secure, and easy-to-use password manager buil
 
 ## 📸 Project Preview
 
-![VaultX Screenshot](cd9f8737-a32f-4773-b89f-859ca390c53a.png)
 
 ---
 
@@ -61,7 +60,6 @@ npm install
 npm start
 ```
 
-The app will launch at **[http://localhost:3000](http://localhost:3000)** ✨
 
 ---
 
